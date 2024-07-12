@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Jost", sans-serif;
+}
+.active{
+    border-bottom: 2px solid rgb(107, 33, 168);
+    padding-bottom: 2px;
+    color: rgb(125, 211, 252);
+}
