@@ -38,7 +38,7 @@ const Header = () => {
       <nav
         className=" "
         style={{
-          backgroundImage: "url(/image/header-bg.jpg)",
+          backgroundImage: "url(/image/a.png)",
           backgroundSize: "cover",
         }}
       >
